@@ -1,4 +1,5 @@
-Project name:
+Project name: 8 Puzzle problem using A-Star Algorithm
+<br>
 <br>The 8-puzzle problem implemented as part of this project will be solved using a 3x3 matrix that takes in 
 <br>an initial state of the grid as well as the goal state. Based on these user inputs, we will solve the problem 
 <br>using one heuristic at a time. 
